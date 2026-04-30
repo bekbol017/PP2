@@ -1,0 +1,1 @@
+a = dict(name="John", age=20)
